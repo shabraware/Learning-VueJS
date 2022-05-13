@@ -1,7 +1,3 @@
-<div align="center">
-![](VueLogo.png)
-</div>
-
 <h2 align="center">Learning VueJS</h2>
 
 # About
