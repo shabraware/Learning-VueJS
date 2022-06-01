@@ -31,7 +31,7 @@ export default {
   data: function () {
     return {
       // API key & Base URL are stored here for simplicity
-      apiKey: '0da4002447738bc151b511da123d194f',
+      apiKey: '',
       baseUrl: 'https://api.openweathermap.org/data/2.5/',
       query: '',
       weather: {},
